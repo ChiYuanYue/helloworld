@@ -1,9 +1,15 @@
-# helloworld
+# 智能课程表查询助手 https://github.com/yourusername/yourrepo
 
-AstrBot 插件模板
+简介
 
-A template plugin for AstrBot plugin feature
+这是一个智能课程表查询助手，旨在帮助学生方便地查询每日课程表，并提供课程提醒功能。
 
-# 支持
+功能
 
-[帮助文档](https://astrbot.app)
+课程查询 ：能够查询当前天的课程信息，包括课程名称、教师、地点和课程类型。
+
+课程提醒 ：在指定的时间发送课程提醒，帮助学生不错过任何重要课程。
+
+定时任务 ：每天定时生成并发送课程表图片。
+
+用户管理 ：支持用户注册、注销、开启和关闭课程提醒等操作。
