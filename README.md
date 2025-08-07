@@ -1,4 +1,4 @@
-# 智能课程表查询助手 https://github.com/yourusername/yourrepo
+# 智能课程表查询助手 https://github.com/ChiYuanYue/helloworld/
 
 简介
 
